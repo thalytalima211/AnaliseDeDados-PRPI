@@ -1,0 +1,5 @@
+pandas
+numpy
+SQLAlchemy
+gspread
+python-dotenv
